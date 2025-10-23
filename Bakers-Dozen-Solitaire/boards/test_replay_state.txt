@@ -1,0 +1,10 @@
+3S 4C AH 2D
+3C 4D 2H AD
+4S 3H AC 2S
+3D 4H 2C AS 
+
+FOUNDATIONS:
+Hearts:
+Diamonds:
+Clubs:
+Spades:
